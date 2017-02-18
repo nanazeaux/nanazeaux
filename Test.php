@@ -1,5 +1,5 @@
 <?php
-$Test;
+$Test = 1;
 if($Test === 1){
     echo "nana";
 }else if ($Test === 2){
